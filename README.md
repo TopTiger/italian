@@ -8,3 +8,5 @@ tomato sauce
 cheese
 
 peperoni
+
+chillies
