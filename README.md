@@ -6,3 +6,5 @@ pizza base
 tomato sauce
 
 cheese
+
+peperoni
